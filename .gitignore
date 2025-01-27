@@ -1,0 +1,4 @@
+.env
+node_modules/
+dist/mac/UAE Emergency Response System.app/Contents/Resources/app.asar
+dist/mac/UAE Emergency Response System.app/Contents/Frameworks/Electron Framework.framework/
