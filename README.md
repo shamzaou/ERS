@@ -154,11 +154,12 @@ The system includes monitoring for:
 
 ## 📝 License
 
-[Add your license information here]
+Private
 
 ## 👥 Contributing
 
-[Add contribution guidelines here]
+sngantch@student.42abudhabi.ae
+desteve@student.42abudhabi.ae
 
 ## 📧 Contact
 
